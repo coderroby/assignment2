@@ -1,0 +1,39 @@
+.agileits-services-grids:nth-child(odd) {
+    background: #D8E9FA;
+}
+.footer-bottomv2 {
+    background: #BED0E9;
+}
+ul.bottom-links-agile {
+    text-align: center;
+    border-top: 1px solid #d8e9fa;
+    border-bottom: 1px solid #d8e9fa;
+    padding: 1.5em 0;
+    margin: 3em 0;
+}
+ul.bottom-links-agile li {
+    display: inline-block;
+    margin: 0 2em;
+}
+ul {
+    list-style-type: none;
+}
+
+.bottom-links-agil a{
+    text-decoration: none;
+}
+
+.shoes .card{
+    border-radius: 3%;
+    border: 1px solid white;
+    box-shadow:  0 0 25px rgb(187, 187, 192), 0 0 5px rgb(154, 154, 156);;
+}
+.shoes .card img{
+    border-radius: 3%;
+}
+
+.my-card h5{
+    color:#fa804c;
+    font-size: 2em;
+    font-weight: 700;
+}
